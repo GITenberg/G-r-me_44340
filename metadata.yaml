@@ -1,0 +1,44 @@
+_repo: G-r-me_44340
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cooper, Frederic Taber
+    alias: Cooper, Fridericus Taber
+    birthdate: 1864
+    deathdate: 1937
+    gutenberg_agent_id: '1245'
+    url: http://www.gutenberg.org/2009/agents/1245
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Taber_Cooper
+covers:
+- cover_type: archival
+  image_path: 44340-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Keim, Albert
+    birthdate: 1876
+    deathdate: 1947
+    gutenberg_agent_id: '1243'
+    url: http://www.gutenberg.org/2009/agents/1243
+  editor:
+    agent_name: Roujon, Henry
+    alias: Roujon, M. Henry
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '41388'
+    url: http://www.gutenberg.org/2009/agents/41388
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Gérôme, Jean Léon, 1824-1904'
+title: Gérôme
+url: http://www.gutenberg.org/ebooks/44340
